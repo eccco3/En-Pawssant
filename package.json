@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/eccco3/en-pawssant/issues"
   },
-  "homepage": "https://github.com/eccco3/en-pawssant#readme"
+  "homepage": "https://github.com/eccco3/en-pawssant#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4"
+  }
 }
