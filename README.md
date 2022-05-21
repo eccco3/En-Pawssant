@@ -1,2 +1,2 @@
 # en-pawssant
-Chess with Cats and Dogs
+Chess Website with Cats and Dogs
